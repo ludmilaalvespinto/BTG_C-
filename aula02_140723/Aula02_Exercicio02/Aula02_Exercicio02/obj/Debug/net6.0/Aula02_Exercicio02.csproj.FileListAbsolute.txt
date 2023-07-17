@@ -1,0 +1,15 @@
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\bin\Debug\net6.0\Aula02_Exercicio02.exe
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\bin\Debug\net6.0\Aula02_Exercicio02.deps.json
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\bin\Debug\net6.0\Aula02_Exercicio02.runtimeconfig.json
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\bin\Debug\net6.0\Aula02_Exercicio02.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\bin\Debug\net6.0\Aula02_Exercicio02.pdb
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.csproj.AssemblyReference.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.AssemblyInfoInputs.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.AssemblyInfo.cs
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\refint\Aula02_Exercicio02.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.pdb
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\Aula02_Exercicio02.genruntimeconfig.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\aula02_140723\Aula02_Exercicio02\Aula02_Exercicio02\obj\Debug\net6.0\ref\Aula02_Exercicio02.dll
