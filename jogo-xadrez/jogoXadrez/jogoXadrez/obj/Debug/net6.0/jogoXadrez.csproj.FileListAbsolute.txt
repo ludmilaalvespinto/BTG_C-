@@ -1,0 +1,15 @@
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\bin\Debug\net6.0\jogoXadrez.exe
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\bin\Debug\net6.0\jogoXadrez.deps.json
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\bin\Debug\net6.0\jogoXadrez.runtimeconfig.json
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\bin\Debug\net6.0\jogoXadrez.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\bin\Debug\net6.0\jogoXadrez.pdb
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.csproj.AssemblyReference.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.AssemblyInfoInputs.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.AssemblyInfo.cs
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.csproj.CoreCompileInputs.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\refint\jogoXadrez.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.pdb
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\jogoXadrez.genruntimeconfig.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\jogo-xadrez\jogoXadrez\jogoXadrez\obj\Debug\net6.0\ref\jogoXadrez.dll

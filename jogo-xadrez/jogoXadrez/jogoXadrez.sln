@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogoXadrez", "jogoXadrez\jogoXadrez.csproj", "{DA57A641-39B7-4FD1-9F73-7354799FDF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA57A641-39B7-4FD1-9F73-7354799FDF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA57A641-39B7-4FD1-9F73-7354799FDF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA57A641-39B7-4FD1-9F73-7354799FDF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA57A641-39B7-4FD1-9F73-7354799FDF17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D09875FD-D54F-488A-A6DB-F07824BCE348}
+	EndGlobalSection
+EndGlobal
