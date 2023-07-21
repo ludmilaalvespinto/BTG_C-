@@ -1,0 +1,15 @@
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\bin\Debug\net6.0\matriz.exe
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\bin\Debug\net6.0\matriz.deps.json
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\bin\Debug\net6.0\matriz.runtimeconfig.json
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\bin\Debug\net6.0\matriz.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\bin\Debug\net6.0\matriz.pdb
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.csproj.AssemblyReference.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.AssemblyInfoInputs.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.AssemblyInfo.cs
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.csproj.CoreCompileInputs.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\refint\matriz.dll
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.pdb
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\matriz.genruntimeconfig.cache
+C:\Users\alves\Documents\BTG_ADA_aulas C#\BTG_C-\matriz\matriz\obj\Debug\net6.0\ref\matriz.dll
